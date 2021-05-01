@@ -1,1 +1,3 @@
-this is my integration branch version
+this is my git project
+this is my first commit on Feature2
+now i am adding some new stuff to feature2
