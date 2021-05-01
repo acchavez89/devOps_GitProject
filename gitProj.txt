@@ -1,6 +1,4 @@
 this is my git project
 this is my first commit on Feature2
 now i am adding some new stuff to feature2
-print("hello from Feature1")
-a=3+7
-print("update to feature1")
+print("update for rebase of Feature1")
