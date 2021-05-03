@@ -2,3 +2,4 @@ this is my git project
 this is my first commit on Feature2
 now i am adding some new stuff to feature2
 print("update for rebase of Feature1")
+print("changes to Feature1 for merge w/ integration, hotfix, main")
